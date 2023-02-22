@@ -250,10 +250,12 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 <style>
 
 .gs-section-01 h3 { 
-     color: red }
+     color: red; 
+     }
 
 .gs-section-01 p {
      font-size: 30px;
+     color: blue;
 }
 
 </style>
