@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Evan Piepho
 
 # Your name to show in the footer
 author: Evan Piepho
@@ -65,7 +65,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: This is the personal website of Evan Piepho
 
 # --- General options --- #
 
@@ -78,7 +78,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "EvanPiepho.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -104,11 +104,11 @@ navbar-text-col: "#ffffff"
 navbar-border-col: "#DDDDDD"
 page-col: "#e7ebed"
 text-col: "#404040"
-link-col: "#008AFF"
+link-col: "#082732"
 hover-col: "#1a789d"
 footer-col: "#0c3748"
 footer-text-col: "#ffffff"
-footer-link-col: "#b8d7e7"
+footer-link-col: "#ced7da"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
